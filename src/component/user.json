@@ -1,0 +1,74 @@
+
+    [
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@example.com",
+    "role": "Admin",
+    "active": true,
+     "age":1
+      },
+  {
+    "id": 2,
+    "name": "Priya Patel",
+    "email": "priya.patel@example.com",
+    "role": "User",
+    "active": true
+  },
+  {
+    "id": 3,
+    "name": "Rohan Verma",
+    "email": "rohan.verma@example.com",
+    "role": "Editor",
+    "active": false
+  },
+  {
+    "id": 4,
+    "name": "Ananya Gupta",
+    "email": "ananya.gupta@example.com",
+    "role": "User",
+    "active": true
+  },
+  {
+    "id": 5,
+    "name": "Kabir Singh",
+    "email": "kabir.singh@example.com",
+    "role": "Moderator",
+    "active": true
+  },
+  {
+    "id": 6,
+    "name": "Neha Reddy",
+    "email": "neha.reddy@example.com",
+    "role": "User",
+    "active": false
+  },
+  {
+    "id": 7,
+    "name": "Vikram Malhotra",
+    "email": "vikram.malhotra@example.com",
+    "role": "Admin",
+    "active": true
+  },
+  {
+    "id": 8,
+    "name": "Meera Joshi",
+    "email": "meera.joshi@example.com",
+    "role": "Editor",
+    "active": true
+  },
+  {
+    "id": 9,
+    "name": "Aditya Rao",
+    "email": "aditya.rao@example.com",
+    "role": "User",
+    "active": true
+  },
+  {
+    "id": 10,
+    "name": "Sneha Das",
+    "email": "sneha.das@example.com",
+    "role": "User",
+    "active": false
+  }
+]
